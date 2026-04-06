@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1775484759|3560527';
+const CACHE_VERSION = '1775485632|3826051';
 /** @type {string} */
 const CACHE_PREFIX = 'Math Mage-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
